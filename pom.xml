@@ -1,4 +1,4 @@
-<project xmlns"https://maven.apache.org/POM/4.0.0">
+<project xmlns="https://maven.apache.org/POM/4.0.0">
 <modelversion>4.0.0</modelversion>
 <artifectID>Demo</artifectID>
 <version>1.0</version>
